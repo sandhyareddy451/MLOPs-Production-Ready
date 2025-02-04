@@ -4,6 +4,7 @@
 - Vs code: https://code.visualstudio.com/download
 - Git: https://git-scm.com/
 - Flowchart: https://whimsical.com/login
+- Mongo dB: https://account.mongodb.com/account/login
 
 ## Git commands
 
@@ -17,6 +18,7 @@
    
   ```
 ## Environment setup
+
 ``` bash
 
 conda create -n visa python=3.8 -y
@@ -24,4 +26,5 @@ conda create -n visa python=3.8 -y
 conda activate visa
 
 pip install -r requirements.txt
+
 ```
